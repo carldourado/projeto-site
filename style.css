@@ -1,0 +1,76 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.botao-azul {
+    background-color: #2500f9;
+    color: #fff;
+    padding: 10px 25px !important;
+    border-radius: 25px;
+    border: 1px solid #242f51;
+}
+
+.botao-azul:hover {
+    background-color: #ffffff;
+    color: #2500f9;
+    padding: 10px 25px !important;
+    border-radius: 25px;
+    border: 1px solid #2500f9;
+}
+
+
+.nav-item {
+    margin-left: 20px;
+}
+
+.navegacao {
+    padding: 20px 50px;
+}
+
+.botao-branco {
+    background-color: #fff;
+    color: #2500f9;
+    padding: 10px 25px !important;
+    border-radius: 25px;
+    border: none;
+}
+
+.botao-branco:hover {
+    background-color: #2500f9;
+    color: #fff;
+    padding: 10px 25px !important;
+    border-radius: 25px;
+    border: none;
+}
+
+.caixa {
+    padding: 60px 120px;
+}
+
+.texto-azul {
+    color: #242f51;
+}
+
+#titulo {
+    font-size: 75px;
+    font-weight: 600;
+}
+
+.texto-cinza {
+    color: #616368;
+}
+
+#principal {
+    background-image: url(img/background2.png), url(img/background1.png);
+    background-repeat: repeat-x;
+    background-position: bottom;
+}
+
+.subtitulo {
+    font-weight: 600;
+}
+
+.titulo-servico {
+    font-weight: 600;
+    font-size: 20px;
+
+}
