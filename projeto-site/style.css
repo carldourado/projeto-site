@@ -1,0 +1,166 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.botao-azul {
+    background-color: #2500f9;
+    color: #fff;
+    padding: 10px 25px !important;
+    border-radius: 25px;
+    border: 1px solid #242f51;
+}
+
+.botao-azul:hover {
+    background-color: #ffffff;
+    color: #2500f9;
+    padding: 10px 25px !important;
+    border-radius: 25px;
+    border: 1px solid #2500f9;
+}
+
+
+.nav-item {
+    margin-left: 20px;
+}
+
+.navegacao {
+    padding: 20px 50px;
+}
+
+.botao-branco {
+    background-color: #fff;
+    color: #2500f9;
+    padding: 10px 25px !important;
+    border-radius: 25px;
+    border: none;
+}
+
+.botao-branco:hover {
+    background-color: #2500f9;
+    color: #fff;
+    padding: 10px 25px !important;
+    border-radius: 25px;
+    border: none;
+}
+
+.caixa {
+    padding: 60px 120px;
+}
+
+.texto-azul {
+    color: #242f51;
+}
+
+#titulo {
+    font-size: 75px;
+    font-weight: 600;
+}
+
+.texto-cinza {
+    color: #616368;
+}
+
+#principal {
+    background-image: url(img/background2.png), url(img/background1.png);
+    background-repeat: repeat-x;
+    background-position: bottom;
+}
+
+.subtitulo {
+    font-weight: 600;
+}
+
+.titulo-servico {
+    font-weight: 600;
+    font-size: 20px;
+
+}
+
+a.botao-azul{
+    text-decoration: none;
+
+}
+
+#sobre h2{
+    font-weight: 400;
+    font-size: 50px;
+}
+
+.accordion-button{
+    padding: 20px !important;
+    background-color: #ecebf0;
+    color: #242f51 !important;
+    font-weight: 600;
+}
+
+.accordion-button:focus{
+    border-color: none !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+.accordion-button:not(.collapsed){
+     background-color: #ecebf0;
+     color: #242f51;
+     box-shadow: none;
+     background-image: none !important;
+}
+
+.accordion-body{
+    background-color: #ecebf0;
+}
+
+.accordion-item{
+margin-top: 10px;
+box-shadow: none !important;
+}
+
+.accordion-button::after{
+    background-image: url(img/plus.png) !important;
+}
+
+.accordion-button:not(.collapsed)::after{
+    background-image: none !important;
+}
+
+#download {
+    padding-top: 100px;
+}
+
+#download h2{
+    font-weight: 600;
+    font-size: 40px;
+}
+
+footer{
+    background-color: #161d32;
+    padding-top: 100px;
+    padding-bottom: 20px;
+    color:white;
+    margin-top:-122px;
+}
+
+footer nav{
+    margin-top: 40px;
+    color: white !important;
+}
+
+footer nav i {
+    font-size: 30px;
+    color: #616368;
+
+}
+
+footer nav i:hover{
+    color: white;
+}
+
+footer a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+footer p {
+    margin-top: 60px;
+}
+
